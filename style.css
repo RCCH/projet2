@@ -1,0 +1,26 @@
+h1{
+	font-family: Avantgarde, Times New Roman;
+	text-align: center;
+	font-size: 90px;
+	vertical-align: middle;
+	color: black;
+}
+
+body{
+	font-family: Avantgarde, sans-serif;
+	border: solid black;
+	background-color: white;
+}
+
+h2{
+	font-family: Avantgarde, Times New Roman;
+	text-align: center;
+	font-size: 20px;
+	font-style: italic;
+	color: black;
+}
+
+table,tr,td{
+	border: white;
+	
+}
